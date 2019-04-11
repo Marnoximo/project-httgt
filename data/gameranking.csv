@@ -1,31 +1,32 @@
 platform,title,developer,score,num_of_reviews
 XONE,Resident Evil 2,Capcom R&D Division 1/Capcom,94.44,9
-PC,Sekiro: Shadows Die Twice,From Software/Activision,93.40,5
+PC,Sekiro: Shadows Die Twice,From Software/Activision,93.43,7
 PS4,Resident Evil 2,Capcom R&D Division 1/Capcom,92.39,41
+PS4,Shadow of the Colossus,Bluepoint Games/Sony Interactive Entertainment,92.27,51
 PS4,NieR: Automata - Game of the YoRHa Edition,PlatinumGames/Square Enix,90.88,8
 NS,Iconoclasts,MP2 Games/Limited Run Games,90.83,6
 3DS,The Legend of Zelda: Majora's Mask 3D,GREZZO/Nintendo,90.39,58
 XONE,Sekiro: Shadows Die Twice,From Software/Activision,89.86,7
 PC,Devil May Cry 5,Capcom,89.71,7
 PC,Resident Evil 2,Capcom R&D Division 1/Capcom,89.33,12
-PS4,Steins:Gate Elite,Mages./Spike Chunsoft,89.25,12
 PS4,Marvel's Spider-Man,Insomniac Games/Sony Interactive Entertainment,89.24,58
 PS4,Night in the Woods,Infinite Fall/Playism,89.17,9
-PS4,Sekiro: Shadows Die Twice,From Software/Activision,89.10,29
+PS4,Steins:Gate Elite,Mages./Spike Chunsoft,88.92,13
+PS4,Sekiro: Shadows Die Twice,From Software/Activision,88.56,32
 PS4,Stardew Valley,Sickhead Games,88.33,6
 NS,OlliOlli: Switch Stance,Gambitious,88.13,8
-XONE,Devil May Cry 5,Capcom,88.12,30
 WIIU,Axiom Verge,Tom Happ/Limited Run Games,88.00,6
 NS,Keep Talking and Nobody Explodes,Steel Crate Games,87.86,7
+XONE,Devil May Cry 5,Capcom,87.85,31
 NS,Stardew Valley,ConcernedApe/Oizumi Amuzio,87.78,9
 VITA,Spelunky,Mossmouth/Limited Run Games,87.50,10
 PC,Sunless Skies,Failbetter Games,87.32,11
+PS4,MLB The Show 19,Sony Interactive Entertainment,87.26,19
 NS,Velocity 2X,FuturLab/Strictly Limited Games,87.14,7
+NS,Final Fantasy VII,Square Enix,87.14,7
 PC,Slay the Spire,Mega Crit Games,87.07,7
+PS4,Devil May Cry 5,Capcom,87.00,22
 PC,Apex Legends,Respawn Entertainment/Electronic Arts,87.00,6
-NS,Final Fantasy VII,Square Enix,87.00,5
-PS4,Devil May Cry 5,Capcom,86.86,21
-PS4,MLB The Show 19,Sony Interactive Entertainment,86.85,13
 PS4,Apex Legends,Respawn Entertainment/Electronic Arts,86.83,15
 PC,Mission Critical,Legend Entertainment/Piko Interactive LLC,86.00,6
 NS,Night in the Woods,Infinite Fall/Playism,86.00,10
@@ -33,12 +34,12 @@ NS,BlazBlue: Central Fiction - Special Edition,Arc System Works,86.00,8
 PC,DiRT Rally 2.0,Codemasters,85.83,6
 NS,Assault Android Cactus+,Witch Beam/Playism,85.83,6
 PS4,Beat Saber,Hyperbolic Magnetism/Beat Games s.r.o.,85.50,10
+PS4,Uncharted: The Lost Legacy,Naughty Dog/Sony Interactive Entertainment,85.46,59
 NS,Ape Out,Gabe Cuzzillo/Devolver Digital,85.25,16
 PS4,Yakuza Kiwami 2,Ryu ga Gotoku Studios/Sega,85.25,40
+NS,Tetris 99,Arika/Nintendo,85.00,10
 NS,Steins:Gate Elite,Mages./Spike Chunsoft,85.00,5
 XONE,Forgotton Anne,Throughline Games/Chorus Worldwide,85.00,6
-NS,Sega Ages: OutRun,Sega,85.00,5
-NS,Tetris 99,Arika/Nintendo,85.00,10
 PS4,Puyo Puyo Tetris,Sonic Team/Deep Silver,84.86,14
 PC,Wargroove,Chucklefish,84.83,6
 PS4,DiRT Rally 2.0,Codemasters,84.82,14
@@ -46,101 +47,104 @@ XONE,Kingdom Hearts III,Square Enix,84.50,10
 NS,Wargroove,Chucklefish,84.44,24
 PC,Tom Clancy's The Division 2,Massive Entertainment/Ubisoft,84.40,10
 PC,Devotion,Red Candle Game/Indievent,84.40,5
-XONE,Trials Rising,RedLynx/Ubisoft,84.33,6
 PC,Sid Meier's Civilization VI: Gathering Storm,Firaxis Games/2K Games,84.17,15
 PS4,Overcooked! 2,Ghost Town Games Ltd.,84.12,17
 PS4,The Legend of Heroes: Trails of Cold Steel,Falcom/XSEED Games,83.89,9
 VITA,Proteus,Ed Key and David Kanaga/Limited Run Games,83.83,6
+XONE,Trials Rising,RedLynx/Ubisoft,83.71,7
 PC,Eastshade,Eastshade Studios,83.62,8
 NS,Super Meat Boy,Team Meat,83.57,7
 3DS,Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,Alphadream Corporation/Nintendo,83.50,18
 PC,Ace Combat 7: Skies Unknown,Project Aces /Bandai Namco Games,83.50,6
-NS,Tales of Vesperia: Definitive Edition,Bandai Namco Games,83.44,16
 NS,Moonlighter,Digital Sun/Teyon,83.33,12
 XONE,Shadow of the Tomb Raider,Eidos Montreal/Square Enix,83.29,24
+PC,Hypnospace Outlaw,Tendershoot/No More Robots,82.91,11
 PS4,Iconoclasts,Konjak/Limited Run Games,82.86,14
 NS,Splatoon 2,Nintendo,82.84,54
 PS3,Oddworld: Stranger's Wrath HD,Just Add Water/Limited Run Games,82.61,23
 PC,Metro Exodus,4A Games/Deep Silver,82.56,24
 NS,X-Morph: Defense,EXOR Studios,82.50,6
-PS4,Subnautica,Unknown Worlds Entertainment,82.50,8
-NS,Baba Is You,MP2 Games/Hempuli Oy,82.50,8
 PS4,Kingdom Hearts III,Square Enix,82.45,42
-PC,Hypnospace Outlaw,Tendershoot/No More Robots,82.44,9
 PC,Battlefleet Gothic: Armada 2,Tindalos Interactive/Focus Home Interactive,82.40,5
+PC,World of Tanks,Wargaming.net/Maximum Games,82.32,22
+PC,Tropico 6,Limbic Entertainment/Kalypso,82.31,24
 PC,Ape Out,Gabe Cuzzillo/Devolver Digital,82.11,14
 3DS,Etrian Odyssey Nexus,Atlus,82.06,17
-X360,Castlevania: Lords of Shadow,Mercury Steam/Konami,81.84,51
+XONE,Tom Clancy's The Division 2,Massive Entertainment/Ubisoft,81.91,11
 3DS,Star Fox 64 3D,Nintendo,81.71,43
 X360,The King of Fighters XIII,SNK Playmore,81.67,26
+NS,Baba Is You,MP2 Games/Hempuli Oy,81.67,9
 PC,The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back,Skybound Games/Telltale Games,81.67,6
-PS4,Tom Clancy's The Division 2,Massive Entertainment/Ubisoft,81.64,25
 X360,Ace Combat 6: Fires of Liberation,Project Aces /Bandai Namco Games,81.59,58
 X360,Command & Conquer 3: Tiberium Wars,EA LA/Electronic Arts,81.55,50
-PS4,Tales of Vesperia: Definitive Edition,QLOC/Bandai Namco Games,81.50,12
-PC,Tropico 6,Limbic Entertainment/Kalypso,81.50,21
 XONE,Cities: Skylines - Xbox One Edition,Tantalus/Paradox Interactive,81.47,17
 PS4,Cities: Skylines - PlayStation 4 Edition,Tantalus/Paradox Interactive,81.43,7
 3DS,Kirby's Extra Epic Yarn,Good-Feel/Nintendo,81.39,18
+PS4,Tom Clancy's The Division 2,Massive Entertainment/Ubisoft,81.19,26
 PC,ToeJam & Earl: Back in the Groove,Humanature Studios,81.00,5
 PC,Yakuza Kiwami,Ryu ga Gotoku Studios/Sega,80.88,8
 PS4,Ace Combat 7: Skies Unknown,Project Aces /Bandai Namco Games,80.81,26
+NS,Darksiders: Warmastered Edition,Nordic Games Publishing/THQ Nordic,80.62,8
 PC,Trials Rising,RedLynx/Ubisoft,80.50,5
 PS4,Madden NFL 19,EA Tiburon/Electronic Arts,80.50,18
 X360,Orcs Must Die!,Robot Entertainment/Microsoft Game Studios,80.37,30
-NS,Yoshi's Crafted World,Good-Feel/Nintendo,80.02,22
-NS,New Super Mario Bros. U Deluxe,Nintendo,79.93,29
+XONE,World of Tanks,Wargaming.net/Maximum Games,80.14,14
+NS,Yoshi's Crafted World,Good-Feel/Nintendo,80.09,27
+NS,Phoenix Wright: Ace Attorney Trilogy,Capcom,80.00,9
 PS4,Stellaris: Console Edition,Paradox Development Studio/Tantalus,79.77,13
 XONE,DiRT Rally 2.0,Codemasters,79.64,11
 X360,LEGO Batman 2: DC Super Heroes,TT Games/Warner Bros. Interactive Entertainment,79.54,45
 PS4,Dragon's Crown Pro,Vanillaware/Atlus,79.52,29
 XONE,Metro Exodus,4A Games/Deep Silver,79.46,12
 NS,Another World,The Digital Lounge/Limited Run Games,79.43,7
+PS4,Phoenix Wright: Ace Attorney Trilogy,Capcom,79.38,8
 NS,Blossom Tales: The Sleeping King,Castle Pixel,79.38,8
-NS,Darksiders: Warmastered Edition,Nordic Games Publishing/THQ Nordic,79.29,7
+PS4,World of Tanks,Wargaming.net/Maximum Games,79.29,7
 3DS,Yo-kai Watch 3,Level 5/Nintendo,79.29,7
+NS,My Memory of Us,Juggler Games / Crunching Koalas/Crunching Koalas,79.22,9
 PS4,RIGS: Mechanized Combat League,Guerilla Cambridge/Sony Interactive Entertainment,79.05,29
 PS4,Metro Exodus,4A Games/Deep Silver,79.00,21
+NS,Captain Toad: Treasure Tracker - Special Episode,Nintendo Software Technology/Nintendo,79.00,5
 NS,Tangledeep,Impact Gameworks,79.00,5
+PC,The Textorcist: The Story of Ray Bibbia,Morbidware/Headup Games,79.00,5
 PC,The Settlers 7: Paths to a Kingdom,Blue Byte/Ubisoft,78.78,18
 NS,Final Fantasy IX,SquareSoft/Square Enix,78.67,9
 X360,Lost Planet: Extreme Condition,Capcom,78.56,88
 NS,ToeJam & Earl: Back in the Groove,Humanature Studios/Limited Run Games,78.46,13
 NS,Golf Peaks,Afterburn/7Levels,78.44,9
 PS4,Firewall Zero Hour,First Contact Entertainment/Sony Interactive Entertainment,78.44,18
+NS,Octahedron: Transfixed Edition,Demimonde/Square Enix,78.40,5
 XONE,Far Cry New Dawn,Ubisoft Montreal/Ubisoft,78.31,13
-XONE,Tom Clancy's The Division 2,Massive Entertainment/Ubisoft,78.25,8
 PC,Far Cry New Dawn,Ubisoft Montreal/Ubisoft,78.12,8
 PS4,Forgotton Anne,Throughline Games/Square Enix,78.07,14
 X360,Command & Conquer: Red Alert 3,EA LA/Electronic Arts,78.03,33
+NS,Hob: The Definitive Edition,Panic Button/Perfect World Entertainment,78.00,5
 NS,Bombslinger,Mode4/Chorus Worldwide,78.00,5
 X360,Lost Planet: Extreme Condition Colonies Edition,Capcom,77.98,22
 PS4,The Persistence,Firesprite,77.91,11
-NS,My Memory of Us,Juggler Games / Crunching Koalas/Crunching Koalas,77.88,8
 NS,Musynx,PM Studios Inc.,77.86,7
 NS,Victor Vran: Overkill Edition,Haemimont Games,77.78,9
-PS4,Fate/Extella Link,Marvelous Inc./XSEED Games,77.78,9
 PS4,The Walking Dead: The Telltale Series - The Final Season Episode 3: Broken Toys,Skybound Games/Telltale Games,77.57,7
 PS4,Street Fighter V,Capcom,77.40,59
 X360,Brothers in Arms: Hell's Highway,Gearbox Software/Ubisoft,77.19,61
-NS,"Bury me, my Love",Plug In Digital,77.19,8
 XONE,Madden NFL 19,EA Tiburon/Electronic Arts,77.18,11
-NS,Chocobo's Mystery Dungeon: Every Buddy!,Square Enix,77.00,5
 PS4,Victor Vran: Overkill Edition,Haemimont Games,76.92,13
-PC,Catherine Classic,Atlus/Sega,76.89,9
-NS,Mechstermination Force,Horberg Productions,76.80,5
+NS,Mechstermination Force,Horberg Productions,76.90,10
 XONE,Ace Combat 7: Skies Unknown,Bandai Namco Games,76.67,6
 NS,Skies of Fury DX,Seed Interactive/IlluminationGames,76.50,6
+PS4,Trials Rising,RedLynx/Ubisoft,76.37,23
 PS4,Utawarerumono: Mask of Truth,Aqua Plus,76.27,11
-PS4,Trials Rising,RedLynx/Ubisoft,76.20,22
 NS,Pikuniku,Sectordub/Devolver Digital,76.18,17
 NS,The Adventure Pals,Massive Monster/Super Rare Games,76.12,8
 NS,Bomb Chicken,Nitrome/Limited Run Games,76.11,9
-X360,Battlestations: Pacific,Eidos Interactive/Square Enix,76.11,37
+PS4,Fate/Extella Link,Marvelous Inc./XSEED Games,76.00,10
 PS4,Riddled Corpses EX,COWCAT/Red Art Games,75.83,6
+NS,Chocobo's Mystery Dungeon: Every Buddy!,Square Enix,75.83,6
 NS,Marble It Up!,Bad Habit Productions/Marble It Up,75.78,9
+PS4,Forma.8,MixedBag Srl/Limited Run Games,75.44,9
 X360,Command & Conquer 3: Kane's Wrath,EA LA/Electronic Arts,75.44,31
 PC,The Walking Dead: The Telltale Series - The Final Season Episode 3: Broken Toys,Skybound Games/Telltale Games,74.78,9
+PS4,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal/Ubisoft,74.55,31
 NS,Observer,Bloober Team,74.13,8
 PS4,Mutant Year Zero: Road to Eden,The Bearded Ladies Consulting/Funcom,74.09,11
 PS4,EVERSPACE,ROCKFISH Games,74.00,5
@@ -150,64 +154,63 @@ NS,Unruly Heroes,Magic Design Studios,73.20,5
 PS4,Life is Strange 2: Episode 2 - Rules,DONTNOD Entertainment/Square Enix,73.18,11
 PS4,The Mage's Tale,InXile Entertainment,73.17,6
 X360,Command & Conquer: Red Alert 3 - Commander's Challenge,EA LA/Electronic Arts,73.09,11
+NS,Cinders,Crunching Koalas,73.00,5
 PC,Arcade Spirits,Fiction Factory Games/PQube,73.00,5
 PS4,No Heroes Allowed! VR,Acquire/Sony Interactive Entertainment,73.00,5
 PS4,Death end re:Quest,Compile Heart/Idea Factory,72.81,16
 PS4,Genesis Alpha One,Radiation Blue/Team 17,72.70,10
 PS4,Dead or Alive 6,Team Ninja/Koei Tecmo Games,72.55,39
-NS,Everything,David OReilly,72.50,6
 3DS,Super Mario Maker for Nintendo 3DS,Nintendo,72.42,30
 NS,Onimusha: Warlords,NeoBards Entertainment/Capcom,72.31,16
 PS4,Monster Energy Supercross:  The Official Videogame 2,Milestone S.r.l,72.20,10
 PS4,Far Cry New Dawn,Ubisoft Montreal/Ubisoft,72.11,36
 PC,My Time At Portia,Pathea Games,71.94,17
 PS4,Dragon Ball: Xenoverse 2,Dimps Corporation/Bandai Namco Games,71.89,27
-PS4,Shadows: Awakening,Kalypso/H2 Interactive Co.,71.82,11
 PS4,Onimusha: Warlords,NeoBards Entertainment/Capcom,71.82,11
 NS,Lichtspeer: Double Speer Edition,Lichthund/Crunching Koalas,71.67,15
+PS4,Assassin's Creed III Remastered,Ubisoft,71.63,8
 PS4,Sundered,Thunder Lotus Games/Limited Run Games,71.50,15
-PS4,ToeJam & Earl: Back in the Groove,Humanature Studios/Limited Run Games,71.36,11
-PS4,God Eater 3,Bandai Namco Games,71.00,27
+NS,Dragon Marked For Death,Inti Creates,71.36,11
+PS4,ToeJam & Earl: Back in the Groove,Humanature Studios/Limited Run Games,71.25,12
 PS4,A Fisherman's Tale,Innerspace VR/Vertigo Games,71.00,5
+PS4,God Eater 3,Bandai Namco Games,71.00,27
 X360,Castlevania: Harmony of Despair,Konami,70.96,45
 XONE,Onimusha: Warlords,NeoBards Entertainment/Capcom,70.83,6
 NS,Aragami: Shadow Edition,Lince Works/Merge Games,70.83,6
 PS4,The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back,Skybound Games/Telltale Games,70.83,6
+PS4,Earth Defense Force: Iron Rain,Yuke's/D3Publisher,70.73,15
 X360,Crackdown 2,Ruffian Games/Microsoft Game Studios,70.68,70
 PC,Pikuniku,Sectordub/Devolver Digital,70.50,8
-PC,ASTRONEER,System Era Softworks,70.00,6
+XONE,Conarium,Zoetrope Interactive/Iceberg Interactive,70.20,5
+NS,Degrees of Separation,Moondrop Studios/Modus Games,70.20,5
 NS,RICO,Ground Shatter Ltd./Rising Star Games,70.00,6
+PC,ASTRONEER,System Era Softworks,70.00,6
 X360,Resident Evil Code: Veronica X HD,Capcom,69.89,27
 IOS,Alien: Blackout,D3 Go!/FoxNext Games,69.67,6
-PS4,Assassin's Creed III Remastered,Ubisoft,69.60,5
 NS,Q.U.B.E. 2,Toxic Games/Super Rare Games,69.57,7
 PS4,Farming Simulator 19,Giants Software/Oizumi Amuzio,69.38,8
 NS,Thea: The Awakening,MuHa Games,69.29,7
-NS,The Liar Princess and the Blind Prince,Nippon Ichi Software/NIS America,69.00,5
 NS,Sphinx and the Cursed Mummy,Eurocom/THQ Nordic,69.00,5
+NS,The Liar Princess and the Blind Prince,Nippon Ichi Software/NIS America,69.00,5
+PC,Outward,Nine Dots Studio,69.00,6
 PS4,RIDE 3,Milestone S.r.l/Oizumi Amuzio,69.00,12
-PC,Mage's Initiation: Reign of the Elements,Himalaya Studios,68.67,6
+PC,Mage's Initiation: Reign of the Elements,Himalaya Studios,68.86,7
 PS4,Farpoint,Impulse Gear/Sony Interactive Entertainment,68.64,28
-NS,Windscape,Magic Sandbox/Headup Games,68.60,5
 NS,Atari Flashback Classics,AtGames/Atari,68.57,7
 PS4,PlayerUnknown's Battlegrounds,PUBG Corporation,68.55,11
-NS,Double Cross,13AM Games/Graffiti Games,68.54,13
-PC,Truberbrook: A Nerd Saves the World,btf/Headup Games,68.40,5
-X360,Rayman Raving Rabbids,Ubisoft Montpellier/Ubisoft,68.15,17
-NS,Dragon Marked For Death,Inti Creates,68.12,8
+NS,Windscape,Magic Sandbox/Headup Games,68.29,7
 PS4,Smoke and Sacrifice,Solar Sail Games/Curve Digital,68.12,8
-PC,The Eternal Castle Remastered,Leonard Menchiari/Playsaurus,68.12,8
 PC,8-Bit Armies,Petroglyph/Soedesco,68.00,5
 X360,Lost Planet 2,Capcom,67.95,38
+NS,LEGRAND LEGACY: Tale of the Fatebounds,Another Indie,67.86,7
+PC,Truberbrook: A Nerd Saves the World,btf/Headup Games,67.83,6
 PC,Tech Support: Error Unknown,Dragon Slumber,67.80,5
-NS,Battle Princess Madelyn,Causal Bit Games,67.60,10
 PS4,Senran Kagura Burst Re:Newal,Honey Parade Games/Marvelous Inc.,67.50,12
-NS,LEGRAND LEGACY: Tale of the Fatebounds,Another Indie,67.50,6
 PS4,GRIP: Combat Racing,Caged Element Inc./Wired Productions,66.93,15
+PS4,Dangerous Driving,Three Fields Entertainment,66.93,14
 PC,Jon Shafer's At the Gates,Conifer Games,66.83,12
+PS4,Outward,Nine Dots Studio/Deep Silver,66.83,6
 NS,Travis Strikes Again: No More Heroes,Grasshopper Manufacture/Marvelous Inc.,66.77,37
-PS4,The Wizards: Enhanced Edition,Carbon Studio,66.60,5
-PC,The Occupation,White Paper Games/Humble,66.50,6
 NS,Mages of Mystralia,Borealys Games,66.43,7
 XONE,The Technomancer,Spiders/Focus Home Interactive,66.30,10
 PS4,Utawarerumono: Mask of Deception,Aqua Plus,66.27,15
@@ -219,48 +222,50 @@ PS4,The Hong Kong Massacre,VRESKI,65.57,7
 NS,The Escapists: Complete Edition,Mouldy Toof Studios/Limited Run Games,65.29,7
 PS4,The Occupation,White Paper Games/Humble Bundle,65.13,12
 PS4,Light Tracer,Oasis Games/Limited Run Games,65.00,5
-PS4,Nelke & the Legendary Alchemists: Ateliers of the New World,Gust/Koei Tecmo Games,65.00,6
-XONE,Anthem,BioWare/Electronic Arts,65.00,12
+PS4,Nelke & the Legendary Alchemists: Ateliers of the New World,Gust/Koei Tecmo Games,65.00,8
 PC,The Settlers: Rise of an Empire,Blue Byte/Ubisoft,64.89,18
-PS4,Call of Cthulhu,Cyanide,64.52,32
-XONE,Genesis Alpha One,Radiation Blue/Team 17,64.17,6
+XONE,Anthem,BioWare/Electronic Arts,64.62,13
+PS4,Call of Cthulhu,Cyanide/Oizumi Amuzio,64.52,32
 NS,GRIP: Combat Racing,Caged Element Inc./Wired Productions,64.17,6
+XONE,Genesis Alpha One,Radiation Blue/Team 17,64.17,6
+PC,The Occupation,White Paper Games/Humble,64.14,7
 PS4,Smash Hit Plunder,Triangular Pixels/Perpetual,64.00,5
-NS,Elli,Bandana Kid,64.00,5
 NS,RemiLore: Lost Girl in the Lands of Lore,Pixellore/Nicalis,63.55,11
-X360,Fuel,Asobo Studio/Codemasters,63.47,32
-PS4,Battle Princess Madelyn,Causal Bit Games,63.43,7
 NS,Raging Justice,MakinGames/Team 17,63.33,6
 PC,Shot Online,OnNet/Webzen,62.87,8
 PS4,SportsBarVR,Cherry Pop Games,62.73,11
 XONE,Crackdown 3,Sumo Digital/Microsoft Game Studios,62.60,39
-PS4,Seasons After Fall,Swing Swing Submarine/Oasis Games,62.50,6
 NS,YIIK: A Postmodern RPG,Ackkstudios,62.50,8
+PS4,Seasons After Fall,Swing Swing Submarine/Oasis Games,62.50,6
+PS4,The Caligula Effect: Overdose,Aquria/NIS America,62.14,7
 X360,Hydrophobia,Dark Energy Digital/Microsoft Game Studios,61.89,46
+PS4,The Wizards: Enhanced Edition,Carbon Studio,61.86,7
 NS,Sleep Tight,We Are Fuzzy,61.83,6
 PS4,8-Bit Hordes,Petroglyph,61.37,8
+XONE,ToeJam & Earl: Back in the Groove,Humanature Studios,61.33,6
 XONE,MX vs. ATV All Out: Anniversary Edition,THQ Nordic,61.00,5
-PS4,The Caligula Effect: Overdose,Aquria/NIS America,60.83,6
 PS4,Trailblazers,Supergonk Ltd./Rising Star Games,60.25,8
-NS,The Caligula Effect: Overdose,Aquria/NIS America,60.00,6
 PS4,Anthem,BioWare/Electronic Arts,60.00,16
-XONE,Jump Force,Spike Chunsoft/Bandai Namco Games,60.00,7
+NS,The Caligula Effect: Overdose,Aquria/NIS America,60.00,6
 PC,Crackdown 3,Sumo Digital/Microsoft Game Studios,60.00,6
+XONE,Jump Force,Spike Chunsoft/Bandai Namco Games,60.00,7
 X360,Marathon: Durandal,Freeverse/Microsoft Game Studios,59.54,13
 NS,The Princess Guide,Nippon Ichi Software/NIS America,59.17,6
 X360,Lost Planet 3,Spark Unlimited/Capcom,58.93,30
+PS4,One Piece: World Seeker,Ganbarion/Bandai Namco Games,58.71,17
+PS4,V-Rally 4,Kylotonn/Oizumi Amuzio,58.50,10
 PS4,Another World: 20th Anniversary Edition,The Digital Lounge/Limited Run Games,58.00,7
 PC,Anthem,BioWare/Electronic Arts,57.97,32
-PS4,One Piece: World Seeker,Ganbarion/Bandai Namco Games,57.20,15
 PC,War Rock,Dream Execution/Papaya Play,57.14,14
-PS4,The LEGO Movie 2 Videogame,TT Games/Warner Bros. Interactive Entertainment,53.78,9
+PS4,The LEGO Movie 2 Videogame,TT Games/Warner Bros. Interactive Entertainment,55.40,10
 PS4,Jump Force,Spike Chunsoft/Bandai Namco Games,53.36,28
 PS4,Vane,Friend & Foe,52.86,25
 X360,Port Royale 3: Pirates and Merchants,Kalypso,51.00,5
-PS4,Generation Zero,Avalanche Studios/THQ Nordic,47.70,5
+PS4,Generation Zero,Avalanche Studios/THQ Nordic,49.28,9
+PC,Generation Zero,Avalanche Studios/THQ Nordic,49.00,8
 PS4,The Deer God,Cinopt Studios LLC/Red Art Games,46.00,5
-PC,Generation Zero,Avalanche Studios/THQ Nordic,44.57,7
-PS4,Eternity: The Last Unicorn,Void Studios/1C Company,41.00,5
+XONE,Verdun,Abstraction Games/M2H,46.00,5
+PS4,Eternity: The Last Unicorn,Void Studios/1C Company,40.83,6
 PS4,Bravo Team,SuperMassive Games/Sony Interactive Entertainment,37.64,14
-PS4,Left Alive,ilinx inc./Square Enix,36.47,17
+PS4,Left Alive,ilinx inc./Square Enix,36.11,18
 NS,Ancient Rush 2,Heideland GameWorks,23.20,5
