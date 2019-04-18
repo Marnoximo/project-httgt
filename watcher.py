@@ -7,7 +7,7 @@ import pika
 
 WATCHED_FOLDER_PATH = './data'
 
-
+# MESSAGE SENDING FUNCTION
 def fire_messages(contents):
     print('[x] send message: ', contents)
     connection = pika.BlockingConnection(pika.ConnectionParameters(host='Tien7559'))
@@ -16,6 +16,7 @@ def fire_messages(contents):
     channel.basic_publish(exchange='', routing_key='hello', body=contents)
     connection.close()
 
+# WATCHING CLASS
 class Watcher:
 	directory = WATCHED_FOLDER_PATH
 	
@@ -34,6 +35,7 @@ class Watcher:
 			print('Error')
 		self.observer.join()
 
+# EVENT HANDLING CLASS
 class Handler(PatternMatchingEventHandler):
     patterns = ["*.csv"]
     
@@ -49,6 +51,7 @@ class Handler(PatternMatchingEventHandler):
     def on_modified(self, event):
         self.process(event)
 
+# MAIN SECTION
 if __name__ == '__main__':
 	w = Watcher()
 	w.run()

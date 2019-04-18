@@ -1,0 +1,14 @@
+FROM ubuntu:18.04
+
+MAINTAINER QuangTien<thaiqtien@gmail.com>
+
+# Install Ubuntu packages
+RUN apt-get update && apt-get install -y python3.6 python3-pip
+# Clean up
+RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Install Python packages for data science
+RUN pip3 install numpy pandas matplotlib pika
+
+WORKDIR /rts
+

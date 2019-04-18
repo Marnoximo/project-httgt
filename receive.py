@@ -5,7 +5,8 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-def get_verdict(x):
+# Function to convert scores into verdicts for gameranking
+def gamerk_verdict(x):
     if x >= 90:
         return 'Very good'
     elif x >= 75:
@@ -16,7 +17,8 @@ def get_verdict(x):
         return 'Bad'
     else:
         return "Very bad"
-    
+
+# Function to analyze gameranking data and save figures
 def analyze_gamerk():
     df = pd.read_csv('./data/gameranking.csv')
     if df is None:
@@ -30,7 +32,7 @@ def analyze_gamerk():
     plt.title('Average scores by platforms')
     plt.savefig('./static/figures/gameranking/averageScoresByPlatforms.png', bbox_inches='tight')
 
-    df['verdict'] = df['score'].apply(get_verdict)
+    df['verdict'] = df['score'].apply(gamerk_verdict)
 
     df.groupby(['verdict']).count()['title'].plot.bar()
     plt.title('Number of titles by verdict')
@@ -42,7 +44,8 @@ def analyze_gamerk():
     
     return True
 
-def verbalise(x):
+# Function to convert metascores to verdicts
+def metacritic_verdict(x):
     if x >= 90:
         return 'Very good'
     elif x >= 75:
@@ -55,7 +58,8 @@ def verbalise(x):
         return 'Very bad'
     else:
         return 'None'
-    
+
+# Function to analyze metacritic data and save figures
 def analyze_metacritic():
     df = pd.read_csv('./data/metacritic.csv')
     if df is None:
@@ -78,8 +82,8 @@ def analyze_metacritic():
     df.groupby(['platform']).mean()['userscore'].plot.bar()
     plt.savefig('./static/figures/metacritic/averageUserscoreByPlatforms.png', bbox_inches='tight')
     
-    df['metascore_verdict'] = df['metascore'].apply(verbalise)
-    df['userscore_verdict'] = df['userscore'].apply(lambda x: verbalise(x*10))
+    df['metascore_verdict'] = df['metascore'].apply(metacritic_verdict)
+    df['userscore_verdict'] = df['userscore'].apply(lambda x: metacritic_verdict(x*10))
     
     df.groupby(['metascore_verdict']).count()['title'].plot.bar()
     plt.savefig('./static/figures/metacritic/numTitlesByMetaVerdict.png', bbox_inches='tight')
@@ -89,6 +93,7 @@ def analyze_metacritic():
     
     return True
 
+# CALLBACK FUNCTION (FUNCTION TO CALL WHEN GET NEW MESSAGES)
 def callback(ch, method, properties, body):
     name = body.decode()
     if name == 'metacritic.csv':
@@ -98,6 +103,7 @@ def callback(ch, method, properties, body):
         
     print('Got message from ', name)
 
+# MAIN SECTION
 if __name__ == '__main__':
     connection = pika.BlockingConnection(pika.ConnectionParameters(host='Tien7559'))
     channel = connection.channel()
